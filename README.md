@@ -1,4 +1,4 @@
-# Go Tutorial Exercises from https://gobyexample.com/
+## Go Tutorial Exercises from https://gobyexample.com/
 
 - [x] Hello World
 - [x] Values
@@ -21,7 +21,7 @@
 - [x] Structs
 - [x] Methods - functions for structs
 - [x] Interfaces - function overloading for different structs
-- [ ] Embedding
+- [ ] Embedding - embedding of structs and interfaces
 - [ ] Generics
 - [ ] Errors
 - [ ] Goroutines
