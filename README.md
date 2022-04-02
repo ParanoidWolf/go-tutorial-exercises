@@ -1,6 +1,6 @@
 ## Go Tutorial Exercises from https://gobyexample.com/
 
-- [x] [Hello World][01_hello_world/Hello.go]
+- [x] [Hello World][01_hello_world/hello_world.go]
 - [x] Values
 - [x] Variables
 - [x] Constants
