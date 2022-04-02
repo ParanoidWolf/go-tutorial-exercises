@@ -22,7 +22,7 @@
 - [x] Methods - functions for structs
 - [x] Interfaces - function overloading for different structs
 - [x] Embedding - embedding of structs and interfaces
-- [ ] Generics - type parameters
+- [x] Generics - type parameters
 - [ ] Errors
 - [ ] Goroutines
 - [ ] Channels
