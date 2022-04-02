@@ -21,7 +21,7 @@
 - [x] Structs
 - [x] Methods - functions for structs
 - [x] Interfaces - function overloading for different structs
-- [ ] Embedding - embedding of structs and interfaces
+- [x] Embedding - embedding of structs and interfaces
 - [ ] Generics
 - [ ] Errors
 - [ ] Goroutines
