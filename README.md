@@ -1,6 +1,6 @@
 ## Go Tutorial Exercises from https://gobyexample.com/
 
-- [x] Hello World
+- [x] [Hello World][01_hello_world/Hello.go]
 - [x] Values
 - [x] Variables
 - [x] Constants
@@ -22,7 +22,7 @@
 - [x] Methods - functions for structs
 - [x] Interfaces - function overloading for different structs
 - [x] Embedding - embedding of structs and interfaces
-- [ ] Generics
+- [ ] Generics - type parameters
 - [ ] Errors
 - [ ] Goroutines
 - [ ] Channels
