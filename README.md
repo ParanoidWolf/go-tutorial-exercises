@@ -26,7 +26,7 @@
 - [x] Errors
 - [x] Goroutines
 - [x] Channels
-- [ ] Channel Buffering
+- [x] Channel Buffering
 - [ ] Channel Synchronization
 - [ ] Channel Directions
 - [ ] Select
