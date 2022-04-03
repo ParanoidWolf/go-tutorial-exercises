@@ -23,8 +23,8 @@
 - [x] Interfaces - function overloading for different structs
 - [x] Embedding - embedding of structs and interfaces
 - [x] Generics - type parameters
-- [ ] Errors
-- [ ] Goroutines
+- [x] Errors
+- [x] Goroutines
 - [ ] Channels
 - [ ] Channel Buffering
 - [ ] Channel Synchronization
