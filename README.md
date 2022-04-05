@@ -32,8 +32,8 @@
 - [x] Select
 - [x] Timeouts
 - [x] Non-Blocking Channel Operations
-- [ ] Closing Channels
-- [ ] Range over Channels
+- [x] Closing Channels
+- [x] Range over Channels - recieve channel values with range
 - [ ] Timers
 - [ ] Tickers
 - [ ] Worker Pools
