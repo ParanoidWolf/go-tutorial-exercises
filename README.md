@@ -31,7 +31,7 @@
 - [x] Channel Directions
 - [x] Select
 - [x] Timeouts
-- [ ] Non-Blocking Channel Operations
+- [x] Non-Blocking Channel Operations
 - [ ] Closing Channels
 - [ ] Range over Channels
 - [ ] Timers
