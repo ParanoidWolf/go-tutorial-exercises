@@ -1,5 +1,4 @@
 ## Go Tutorial Exercises from https://gobyexample.com/
-
 - [x] Hello World
 - [x] Values
 - [x] Variables
@@ -35,8 +34,8 @@
 - [x] Closing Channels
 - [x] Range over Channels - recieve channel values with range
 - [x] Timers
-- [ ] Tickers
-- [ ] Worker Pools
+- [x] Tickers
+- [x] Worker Pools
 - [ ] WaitGroups
 - [ ] Rate Limiting
 - [ ] Atomic Counters
