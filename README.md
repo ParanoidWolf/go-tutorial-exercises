@@ -38,8 +38,8 @@
 - [x] Worker Pools
 - [x] WaitGroups
 - [x] Rate Limiting
-- [ ] Atomic Counters
-- [ ] Mutexes
+- [x] Atomic Counters
+- [x] Mutexes
 - [ ] Stateful Goroutines
 - [ ] Sorting
 - [ ] Sorting by Functions
