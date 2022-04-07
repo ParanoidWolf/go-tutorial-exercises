@@ -42,7 +42,7 @@
 - [x] Mutexes
 - [x] Stateful Goroutines
 - [x] Sorting
-- [ ] Sorting by Functions
+- [x] Sorting by Functions
 - [ ] Panic
 - [ ] Defer
 - [ ] Recover
