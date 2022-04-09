@@ -52,7 +52,7 @@
 - [x] Regular Expressions
 - [x] JSON
 - [x] XML
-- [ ] Time
+- [x] Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
 - [ ] Random Numbers
