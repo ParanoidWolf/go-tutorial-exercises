@@ -49,7 +49,7 @@
 - [x] String Functions
 - [x] String Formatting
 - [x] Text Templates
-- [ ] Regular Expressions
+- [x] Regular Expressions
 - [ ] JSON
 - [ ] XML
 - [ ] Time
