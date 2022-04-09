@@ -51,7 +51,7 @@
 - [x] Text Templates
 - [x] Regular Expressions
 - [x] JSON
-- [ ] XML
+- [x] XML
 - [ ] Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
