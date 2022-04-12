@@ -48,4 +48,6 @@ func main() {
   b4, err := r4.Peek(5)
   check(err)
   fmt.Printf("5 bytes: %s\n", string(b4))
+
+  f.Close()
 }
