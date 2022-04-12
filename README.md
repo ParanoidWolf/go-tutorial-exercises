@@ -65,7 +65,7 @@
 - [x] Line Filters
 - [x] File Paths
 - [x] Directories
-- [ ] Temporary Files and Directories
+- [x] Temporary Files and Directories
 - [ ] Testing and Benchmarking
 - [ ] Command-Line Arguments
 - [ ] Command-Line Flags
