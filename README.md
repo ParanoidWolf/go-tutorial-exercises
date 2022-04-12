@@ -63,7 +63,7 @@
 - [x] Reading Files
 - [x] Writing Files
 - [x] Line Filters
-- [ ] File Paths
+- [x] File Paths
 - [ ] Directories
 - [ ] Temporary Files and Directories
 - [ ] Testing and Benchmarking
