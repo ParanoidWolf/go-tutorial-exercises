@@ -64,7 +64,7 @@
 - [x] Writing Files
 - [x] Line Filters
 - [x] File Paths
-- [ ] Directories
+- [x] Directories
 - [ ] Temporary Files and Directories
 - [ ] Testing and Benchmarking
 - [ ] Command-Line Arguments
