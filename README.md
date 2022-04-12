@@ -61,7 +61,7 @@
 - [x] SHA256 Hashes
 - [x] Base64 Encoding
 - [x] Reading Files
-- [ ] Writing Files
+- [x] Writing Files
 - [ ] Line Filters
 - [ ] File Paths
 - [ ] Directories
