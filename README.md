@@ -60,7 +60,7 @@
 - [x] URL Parsing
 - [x] SHA256 Hashes
 - [x] Base64 Encoding
-- [ ] Reading Files
+- [x] Reading Files
 - [ ] Writing Files
 - [ ] Line Filters
 - [ ] File Paths
