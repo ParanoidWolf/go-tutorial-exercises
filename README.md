@@ -62,7 +62,7 @@
 - [x] Base64 Encoding
 - [x] Reading Files
 - [x] Writing Files
-- [ ] Line Filters
+- [x] Line Filters
 - [ ] File Paths
 - [ ] Directories
 - [ ] Temporary Files and Directories
