@@ -69,7 +69,7 @@
 - [x] Testing and Benchmarking
 - [x] Command-Line Arguments
 - [x] Command-Line Flags
-- [ ] Command-Line Subcommands
+- [x] Command-Line Subcommands
 - [ ] Environment Variables
 - [ ] HTTP Clients
 - [ ] HTTP Servers
