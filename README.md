@@ -68,7 +68,7 @@
 - [x] Temporary Files and Directories
 - [x] Testing and Benchmarking
 - [x] Command-Line Arguments
-- [ ] Command-Line Flags
+- [x] Command-Line Flags
 - [ ] Command-Line Subcommands
 - [ ] Environment Variables
 - [ ] HTTP Clients
