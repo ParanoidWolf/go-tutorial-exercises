@@ -74,7 +74,7 @@
 - [x] HTTP Clients
 - [x] HTTP Servers
 - [x] Context
-- [ ] Spawning Processes
+- [x] Spawning Processes
 - [ ] Exec'ing Processes
 - [ ] Signals
 - [ ] Exit
