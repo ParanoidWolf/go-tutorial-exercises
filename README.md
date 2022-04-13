@@ -77,4 +77,4 @@
 - [x] Spawning Processes
 - [x] Exec'ing Processes
 - [x] Signals
-- [ ] Exit
+- [x] Exit
