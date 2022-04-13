@@ -71,7 +71,7 @@
 - [x] Command-Line Flags
 - [x] Command-Line Subcommands
 - [x] Environment Variables
-- [ ] HTTP Clients
+- [x] HTTP Clients
 - [ ] HTTP Servers
 - [ ] Context
 - [ ] Spawning Processes
